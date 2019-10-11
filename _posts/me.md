@@ -1,0 +1,20 @@
+---
+layout: post
+comments: true
+---
+
+I got my Ms. C. in Computer Networks and Embedded Systems at the University of Strasbourg in 2019. 
+I am now working on my Ph. D., still at the University of Strasbourg, in the Networks Teams of the ICube laboratory. My work is on Segment Routing, path computation and network monitoring, and is supervised by Cristel Pelsser and Pascal Mérindol. 
+
+I also worked on Internet topology discovery (MPLS tunnels revelation), large-scale network measurements, and on an efficient 
+BGP protection scheme that aims at mitigating the effects of intra-domain failures on transiting traffic. 
+
+As you may have guessed, my main research interests are:
+* Core networks
+* Routing and path computation 
+* Network measurement and monitoring 
+* Topology discovery
+
+
+
+
