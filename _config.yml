@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Jean-Romain Luttringer
+title: Jean-Romain (Jro) Luttringer
 
 # Short description of your site
 desc: PhD Student
@@ -58,7 +58,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jean-Romain (Jro) Luttringer
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -67,6 +67,7 @@ author:
 social-network-links:
   email: "jr.luttringer@unistra.fr"
   twitter: Jro_Luttringer
+  gitlab: jrluttringer
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -136,7 +137,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 80
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
