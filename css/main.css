@@ -320,14 +320,14 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: underline;
-  color: #004C99;
+  color: #0066CC;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: underline;
   font-weight: bold;
-  color: #FFF2CC;
+  color: #0066CC;
 }
 
 .post-preview .post-title {
