@@ -8,9 +8,10 @@ use-site-title: false
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-  {{ post.content }}
+  
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
+	    {{ post.content }}
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
