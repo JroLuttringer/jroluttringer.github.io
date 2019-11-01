@@ -318,10 +318,10 @@ footer .theme-by {
   border-bottom: 0;
 }
 
-.post-preview a {
+/*.post-preview a {
   text-decoration: none;
   color: #404040;
-}
+}*/
 
 .post-preview a:focus,
 .post-preview a:hover {
