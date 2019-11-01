@@ -319,12 +319,14 @@ footer .theme-by {
 }
 
 .post-preview a {
+  text-decoration: underline;
   color: #004C99;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
-  text-decoration: none;
+  text-decoration: underline;
+  font-weight: bold;
   color: #FFF2CC;
 }
 
