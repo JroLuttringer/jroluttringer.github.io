@@ -11,7 +11,7 @@ use-site-title: false
   
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
-	    {{ post.content }}
+	    
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
@@ -22,6 +22,7 @@ use-site-title: false
     </a>
 
       <div class="post-entry-container">
+	      {{ post.content }}
       {% if post.image %}
       <div class="post-image">
         <a href="{{ post.url | relative_url }}">
