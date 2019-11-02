@@ -35,8 +35,8 @@ blockquote p:first-child {
  /* unvisited link */
 .anchor{
   display: block;
-  height: 115px; /*same height as header*/
-  margin-top: -115px; /*same height as header*/
+  height: 130px; /*same height as header*/
+  margin-top: -130px; /*same height as header*/
   visibility: hidden;
 }
 hr.small {
