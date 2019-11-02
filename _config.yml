@@ -26,6 +26,7 @@ navbar-links:
   Reviewing:
   Research:
   CV:
+    - "http://wikipedia.org"
     
  
 # Image to show in the navigation bar - image must be a square (width = height)
