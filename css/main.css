@@ -35,7 +35,7 @@ blockquote p:first-child {
  /* unvisited link */
 
 hr.small {
-  max-width: 100px;
+  max-width: 200px;
   margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
@@ -45,7 +45,7 @@ hr.small {
 .main-content {
   padding-top: 80px;
 }
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: A000px) {
   .main-content {
     padding-top: 130px;
   }
