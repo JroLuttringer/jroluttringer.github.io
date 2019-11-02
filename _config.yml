@@ -20,8 +20,6 @@ desc: PhD Student
 
 # List of links in the navigation bar
 navbar-links:
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   Me:
   Publications:
   Teaching:
