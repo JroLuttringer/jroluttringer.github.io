@@ -33,7 +33,12 @@ blockquote p:first-child {
   margin-top: 0;
 }
  /* unvisited link */
-
+.anchor{
+  display: block;
+  height: 115px; /*same height as header*/
+  margin-top: -115px; /*same height as header*/
+  visibility: hidden;
+}
 hr.small {
   max-width: 200px;
   margin: 15px auto;
