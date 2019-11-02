@@ -20,11 +20,11 @@ desc: PhD Student
 
 # List of links in the navigation bar
 navbar-links:
-  Me:
-  Publications:
-  Teaching:
-  Reviewing:
-  Research:
+  Me: "https://jroluttringer.github.io/#me"
+  Publications: "https://jroluttringer.github.io/#publication"
+  Teaching: "https://jroluttringer.github.io/#teaching"
+  Reviewing: "https://jroluttringer.github.io/#review"
+  Research: "https://jroluttringer.github.io/#research"
   Resume: "https://drive.google.com/open?id=1vretsk1DHKJwJbmBN0_wUcOkH2zD9M-t"
     
     
