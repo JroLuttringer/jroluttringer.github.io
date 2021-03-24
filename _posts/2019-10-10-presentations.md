@@ -11,12 +11,12 @@ urlcolor: blue
  
 ---
 
-**Best2cop in 5 minutes for non-experts**: 
+**Best2cop in 5 minutes for non-experts**:   
 [Slides](https://drive.google.com/file/d/1GECTXlpbuX-TSjKc1TZw2zXVbA7OJC8R/view?usp=sharing) 
 
 ---
 
-**Best2cop in 10 minutes for non-experts**: 
+**Best2cop in 10 minutes for non-experts**:   
 [Slides](https://drive.google.com/file/d/1tD4A55CzeYgmzOFO0GyFuwTqoKU-Lug8/view?usp=sharing) 
 
 ---
